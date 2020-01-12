@@ -1,12 +1,5 @@
 # Ergonomics
 
-### Projected Time
-About 90 minutes
-- 8 minutes for the video walkthrough of the slides
-- 10 minutes for "7 Ways to Be A Healthier Programmer" article
-- 30 minutes for CalOSHA's "Easy Ergonomics for Desktop Users"
-- 20 minutes for Group Practice
-- 10 minutes for Independent Practice
 
 ### Prerequisites
 None
