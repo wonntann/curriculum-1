@@ -2,7 +2,7 @@
 
 ### Languages
 
-- [JavaScript](https://github.com/Techtonica/curriculum/tree/main/javascript)
+- [JavaScript](https://github.com/Techtonica/curriculum/tree/master/javascript)
 - [Git](../git-version-control/git-version-control.md)
 - [bash](../dev-tools/dot-profile.md)
 - [SQL](../databases/sql.md)
